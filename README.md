@@ -29,6 +29,7 @@ Below is a list of the certifications included in this repository:
 23. Programming for Everybody (Getting Started with Python)- Course Certificate from University of Michigan (Coursera)
 24. Python Data Structures- Course Certificate from University of Michigan (Coursera)
 25. Using Basic Formulas and Functions in Microsoft Excel- Course Certificate from Coursera Project Network
+26. AI-ML for Geodata Analysis- Participation Certificate by ISRO and DoS GoI
 
     
 ## How to Use
